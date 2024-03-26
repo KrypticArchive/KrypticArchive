@@ -52,8 +52,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/salimim06/salimim06/output/snake.svg" alt="Snake animation" />
 
-###
