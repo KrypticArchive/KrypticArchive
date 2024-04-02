@@ -100,7 +100,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=salimim06&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=KrypticArchive
+&&style=flat-square" align="center" />
 </div>  
   
 
